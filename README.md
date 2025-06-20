@@ -1,6 +1,6 @@
 # 👋 Привет! Я Надя /ᐠ. ｡.ᐟ\ᵐᵉᵒʷˎˊ˗
 
-![Nadezhda Shiryaeva-hand-held-card](https://github.com/user-attachments/assets/3b35366a-775d-43df-89d0-d1d4a8f2b675)
+![Nadezhda Shiryaeva-hand-held-card](https://github.com/user-attachments/assets/b81f473d-a297-4893-8f83-2608c481b658
 
 Добро пожаловать на мой GitHub!  
 Здесь вы найдете мои проекты, эксперименты и полезные наработки.
